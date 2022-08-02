@@ -2,7 +2,7 @@
   "name": "admin-dash",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tpoornashree.github.io/admin-dash.github.io/",
+
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/data-grid": "^4.0.0-alpha.37",
